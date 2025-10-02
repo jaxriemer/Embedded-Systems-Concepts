@@ -41,6 +41,6 @@ ex:
 
 Summary:
 
-[Truth Table](https://github.com/jaxriemer/Embedded-Systems-Concepts/blob/main/images/TruthTable.png)
+![Truth Table](https://github.com/jaxriemer/Embedded-Systems-Concepts/blob/main/images/TruthTable.png)
 
 More in-depth information https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/

@@ -41,6 +41,11 @@ ex:
 
 Summary:
 
+<p align="center">
+  <img width="411" height="221" src="https://github.com/jaxriemer/Embedded-Systems-Concepts/blob/main/images/TruthTable.png">
+</p>
+
+
 ![Truth Table](https://github.com/jaxriemer/Embedded-Systems-Concepts/blob/main/images/TruthTable.png)
 
 More in-depth information https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/

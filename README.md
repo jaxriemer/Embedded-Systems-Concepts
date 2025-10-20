@@ -4,6 +4,10 @@
 
 [Bit-Manipulation](https://github.com/jaxriemer/Embedded-Systems-Concepts/blob/main/Bit%20Manipulation.md)
 
+## Communication
+
+
+
 ## Protocols
 
 MQTT
